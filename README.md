@@ -1,2 +1,2 @@
-# SkinCancerDetection
-Skin Cancer Detection Using AI.
+# Cancer Cell Derection
+Cancer Detection Using Machine Learning.
