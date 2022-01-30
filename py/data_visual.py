@@ -10,5 +10,3 @@ categories = ['perimeter_mean', 'radius_mean', 'texture_mean', 'area_mean', 'smo
 for category in categories:
     sns.catplot(x = category, y = 'diagnosis_binary', data = modified_df, order=['1 (malignant)', '0 (benign)'])
 plt.show()
-
-# implementing true positives and true negatives graph/table/chart: https://stackoverflow.com/questions/31324218/scikit-learn-how-to-obtain-true-positive-true-negative-false-positive-and-fal
