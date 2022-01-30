@@ -1,7 +1,7 @@
 # Cancer Cell Detection
 
 Credits to the [Breast Cancer Wisconsin dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data).
-
+<!-- 
 ![data visual #1](https://raw.githubusercontent.com/KaivalSShah/Cancer-Cell-Detection/main/assets/example1.png)
-![data visual #2](https://raw.githubusercontent.com/KaivalSShah/Cancer-Cell-Detection/main/assets/example2.png)
-<img src="/assets/example1.png" alt="drawing" width="200"/>
+![data visual #2](https://raw.githubusercontent.com/KaivalSShah/Cancer-Cell-Detection/main/assets/example2.png) -->
+<img src="/assets/example1.png" alt="drawing" width="500"/> <img src="/assets/example2.png" alt="drawing" width="500"/>
